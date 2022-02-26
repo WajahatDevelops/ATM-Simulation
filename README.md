@@ -1,2 +1,2 @@
 # ATM-Simulation
-Simulate ATM like interface using C++.
+Simulate ATM like interface using Python.
